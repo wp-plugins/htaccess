@@ -91,7 +91,7 @@ Here is an example for German language files.
 = V1.2 - 04.04.2013 =
 * Update : Screenshots are updated.
 * Update : BWS plugins section is updated.
-* Budfix : Plugin optimization is done.
+* Budfix : Plugin optimization is done. 
 
 = V1.1 =
 * NEW: The ability to change the Directive block of the existing .htaccess file was added. Plugin optimization is done.
