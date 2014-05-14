@@ -1,10 +1,10 @@
 ﻿=== Htaccess ===
 Contributors: bestwebsoft
-Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=10&product_id=13
-Tags: htaccess, allow, deny, allow from, deny from, control access, client hostname, IP address
+Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=1&product_id=94
+Tags: access, allow, allow directive, allow from, client hostname, control access, deny, deny directive, deny from, directive, directive block, hatccess, htaccess, htacess, htaces, htacces, hteccess, htecess, htecces, ip-address, order, order fields, website access
 Requires at least: 3.5
-Tested up to: 3.8.1
-Stable tag: 1.2
+Tested up to: 3.9.1
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,6 @@ The plugin Htaccess allows controlling access to your website using the directiv
 The plugin Htaccess allows controlling access to your website using the directives Allow and Deny. Access can be controlled based on the client's hostname, IP address, or other characteristics of the client's request.
 
 <a href="http://wordpress.org/plugins/htaccess/faq/" target="_blank">FAQ</a>
-
 <a href="http://bestwebsoft.com/plugin/htaccess-plugin/" target="_blank">Support</a>
 
 = Features =
@@ -32,6 +31,7 @@ There is also a premium version of the plugin <a href="http://bestwebsoft.com/pl
 = Translation =
 
 * Russian (ru_RU)
+* Ukrainian (uk)
 
 If you create your own language pack or update an existing one, you can send <a href="http://codex.wordpress.org/Translating_WordPress" target="_blank">the text of PO and MO files</a> for <a href="http://bestwebsoft.com/" target="_blank">BWS</a> and we'll add it to the plugin. You can download the latest version of the program for work with PO and MO files  <a href="http://www.poedit.net/download.php" target="_blank">Poedit</a>.
 
@@ -88,6 +88,10 @@ Here is an example for German language files.
 
 == Changelog ==
 
+= V1.3 - 14.05.2014 =
+* NEW : The Ukrainian language file is added to the plugin.
+* Update : We updated all functionality for wordpress 3.9.1.
+
 = V1.2 - 04.04.2013 =
 * Update : Screenshots are updated.
 * Update : BWS plugins section is updated.
@@ -97,6 +101,9 @@ Here is an example for German language files.
 * NEW: The ability to change the Directive block of the existing .htaccess file was added. Plugin optimization is done.
 
 == Upgrade Notice ==
+
+= V1.3 =
+The Ukrainian language file is added to the plugin. We updated all functionality for wordpress 3.9.1.
 
 = V1.2 =
 Screenshots are updated. BWS plugins section is updated. Plugin optimization is done.
