@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: htaccess\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-14 12:31+0300\n"
+"PO-Revision-Date: 2015-07-14 12:31+0300\n"
+"Last-Translator: bestwebsoft.com <plugins@bestwebsoft.com>\n"
+"Language-Team: bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: htaccess.php:33
+#: htaccess.php:112
+#: htaccess.php:126
+#: htaccess.php:188
+msgid "Settings"
+msgstr "Налаштування"
+
+#: htaccess.php:127
+#: htaccess.php:189
+#: htaccess.php:199
+msgid "FAQ"
+msgstr "FAQ"
+
+#: htaccess.php:128
+msgid "Support"
+msgstr "Підтримка"
+
+#: htaccess.php:146
+msgid "Wrong 'Order fields'. You can enter:"
+msgstr "Невірно введено 'Order fields'. Ви можете ввести:"
+
+#: htaccess.php:146
+msgid "or"
+msgstr "чи"
+
+#: htaccess.php:160
+msgid "Settings saved."
+msgstr "Налаштування збережено."
+
+#: htaccess.php:175
+msgid "All plugin settings were restored."
+msgstr "Всі налаштування плагіну було скинуто до стандартних."
+
+#: htaccess.php:186
+msgid "Htaccess Settings"
+msgstr "Налаштування Htaccess"
+
+#: htaccess.php:190
+msgid "Go PRO"
+msgstr "Придбати ПРО версію"
+
+#: htaccess.php:199
+#: htaccess.php:202
+msgid "Notice:"
+msgstr "Увага:"
+
+#: htaccess.php:199
+msgid "It is very important to be extremely attentive when making changes to .htaccess file. If after making changes your site stops functioning, please see"
+msgstr "При внесенні правок у файл .htaccess, будьте особливо уважні. Якщо після внесення правок ваш сайт перестане працювати, дивіться"
+
+#: htaccess.php:200
+msgid "The changes will be applied immediately after saving the changes, if you are not sure - do not click the \"Save changes\" button."
+msgstr "Зміни набувають чинності відразу після збереження налаштувань. Якщо ви не впевнені, не натискайте \"Зберегти зміни\"."
+
+#: htaccess.php:202
+msgid "The plugin's settings have been changed. In order to save them please don't forget to click the 'Save Changes' button."
+msgstr "Налаштування плагіну змінено. Будь ласка, не забудьте натистути 'Зберегти зміни' для того, щоб зберегти їх."
+
+#: htaccess.php:206
+msgid "Order fields"
+msgstr "Поля замовлень"
+
+#: htaccess.php:213
+msgid "Allow from"
+msgstr "Дозволити від"
+
+#: htaccess.php:216
+msgid "Info about the arguments to the Allow directive"
+msgstr "Інформация про аргументи щодо Дозвільної директиви "
+
+#: htaccess.php:216
+#: htaccess.php:223
+msgid "Controlling access to your website using the .htaccess"
+msgstr "Керування доступом до сайту за допомогою .htaccess"
+
+#: htaccess.php:220
+msgid "Deny from"
+msgstr "Заборонити від"
+
+#: htaccess.php:223
+msgid "Info about the arguments to the Deny directive"
+msgstr "Інформация про аргументи щодо директиви Відмови"
+
+#: htaccess.php:232
+msgid "Access to xmlrpc.php"
+msgstr "Доступ до xmlrpc.php"
+
+#: htaccess.php:236
+#: htaccess.php:244
+msgid "Learn more"
+msgstr "Читати більше"
+
+#: htaccess.php:236
+msgid "What is XML-RPC?"
+msgstr "Що таке XML -RPC ?"
+
+#: htaccess.php:240
+msgid "Disable hotlinking"
+msgstr "Заборонити хотлінки"
+
+#: htaccess.php:244
+msgid "How to Prevent Hotlinking?"
+msgstr "Як уникнути хотлинкинга? "
+
+#: htaccess.php:248
+msgid "Allow hotlinking for"
+msgstr "Дозволити хотлінки для"
+
+#: htaccess.php:251
+msgid "Allowed hosts should be entered comma separated"
+msgstr "Дозволені пости необіхдно вказувати через кому"
+
+#: htaccess.php:258
+msgid "If you upgrade to Pro version all your settings will be saved."
+msgstr "Після оновленя до PRO версії ваші налаштування будуть збережені"
+
+#: htaccess.php:265
+msgid "Unlock premium options by upgrading to a PRO version."
+msgstr "Відкрийте додаткові опції, перейшовши на Про версію."
+
+#: htaccess.php:266
+msgid "Learn More"
+msgstr "Читати більше"
+
+#: htaccess.php:270
+msgid "Go"
+msgstr "Вперед"
+
+#: htaccess.php:278
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#~ msgid "requires"
+#~ msgstr "вимагає"
+
+#~ msgid ""
+#~ "or higher, that is why it has been deactivated! Please upgrade WordPress "
+#~ "and try again."
+#~ msgstr ""
+#~ "або вище, от чому його було деактивовано! Будь ласка, оновіть WordPress "
+#~ "та спробуйте ще раз."
+
+#~ msgid "Back to the WordPress"
+#~ msgstr "Повернутися на WordPress на"
+
+#~ msgid "Plugins page"
+#~ msgstr "Сторінку плагінів"
+
+#~ msgid "Wrong license key"
+#~ msgstr "Невірний ліцензійний ключ"
+
+#~ msgid ""
+#~ "Something went wrong. Try again later. If the error will appear again, "
+#~ "please, contact us <a href=http://support.bestwebsoft.com>BestWebSoft</"
+#~ "a>. We are sorry for inconvenience."
+#~ msgstr ""
+#~ "Щось не так, спробуйте пізніше. Якщо помилка повториться, будь ласка, "
+#~ "повідомте нам <a href=http://support.bestwebsoft.com>BestWebSoft</a>. "
+#~ "Просимо вибачення за незручності. "
+
+#~ msgid "This license key is bind to another site"
+#~ msgstr "Цей ліцензійний ключ прив'язаний до іншого сайту"
+
+#~ msgid ""
+#~ "Unfortunately, you have exceeded the number of available tries per day. "
+#~ "Please, upload the plugin manually."
+#~ msgstr ""
+#~ "На жаль, ви перевищили добовий ліміт спроб. Будь ласка, завантажте плагін "
+#~ "вручну."
+
+#~ msgid "This license key is valid, but your license has expired."
+#~ msgstr "Цей ключ є дійсний, але  ліцензіїний час вже закінчився."
+
+#~ msgid ""
+#~ "Failed to download the zip archive. Please, upload the plugin manually"
+#~ msgstr ""
+#~ "Помилка при завантаженні zip архіву. Будь ласка, завантажте плагін вручну"
+
+#~ msgid "Failed to open the zip archive. Please, upload the plugin manually"
+#~ msgstr ""
+#~ "Помилка при відкритті zip архіву. Будь ласка, завантажте плагін вручну"
+
+#~ msgid ""
+#~ "Your server does not support either ZipArchive or Phar. Please, upload "
+#~ "the plugin manually"
+#~ msgstr ""
+#~ "Ваш сервер не підтримує формати Zip і Phar. Будь ласка, завантажте плагін "
+#~ "вручну"
+
+#~ msgid "UploadDir is not writable. Please, upload the plugin manually"
+#~ msgstr ""
+#~ "Помилка при відкритті zip архіву. Будь ласка, завантажте плагін вручну"
+
+#~ msgid ""
+#~ "Something went wrong. Try again later or upload the plugin manually. We "
+#~ "are sorry for inconvienience."
+#~ msgstr ""
+#~ "Щось не так. Спробуйте пізніше або завантажте плагін вручну. Просимо "
+#~ "вибачення за незручності."
+
+#~ msgid "Please, enter Your license key"
+#~ msgstr "Будь ласка, введіть ліцензійний ключ"
+
+#~ msgid "If you enjoy our plugin, please give it 5 stars on WordPress"
+#~ msgstr ""
+#~ "Якщо вам подобається плагін, будь ласка, поставте нам 5 зірочок на "
+#~ "WordPress"
+
+#~ msgid "Rate the plugin"
+#~ msgstr "Оцінити плагін"
+
+#~ msgid "If there is something wrong about it, please contact us"
+#~ msgstr "Якщо виникли проблеми, будь ласка, повідомте нам"
+
+#~ msgid ""
+#~ "Congratulations! The PRO version of the plugin is successfully download "
+#~ "and activated."
+#~ msgstr "Вітаємо! Про версія плагіну була завантажена та активована успішно."
+
+#~ msgid "Please, go to"
+#~ msgstr "Будь ласка, перейдіть на"
+
+#~ msgid "the setting page"
+#~ msgstr "сторінку налаштувань"
+
+#~ msgid "You will be redirected automatically in 5 seconds."
+#~ msgstr "Переадресація через 5 сек."
+
+#~ msgid "You can download and activate"
+#~ msgstr "Ви можете завантажити та активувати"
+
+#~ msgid "version of this plugin by entering Your license key."
+#~ msgstr "версію цього плагіну, ввівши Ваш ліцензійний ключ"
+
+#~ msgid ""
+#~ "You can find your license key on your personal page Client area, by "
+#~ "clicking on the link"
+#~ msgstr ""
+#~ "Ви можете знайти ліцензійний ключ на вкладці \"Клієнтам\" вашої сторінки, "
+#~ "клікнувши на лінк"
+
+#~ msgid ""
+#~ "(your username is the email you specify when purchasing the product)."
+#~ msgstr "(ваше ім'я - це емейл, який ви вказували при покупці)"
+
+#~ msgid "Activate"
+#~ msgstr "Активувати"
+
+#~ msgid "Go!"
+#~ msgstr "Вперед!"
+
+#~ msgid ""
+#~ "It's time to upgrade your <strong>Htaccess</strong> to <strong>PRO</"
+#~ "strong> version"
+#~ msgstr ""
+#~ "Час оновити ваш <strong>Htaccess</strong> до <strong>PRO</strong> версії"
+
+#~ msgid "Extend standard plugin functionality with new great options"
+#~ msgstr "Розширити стандартний функціонал плагіну новими можливостями"
