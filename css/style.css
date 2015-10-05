@@ -1,0 +1,12 @@
+/*
+* styles for settings page
+*/
+.htccss-clear{
+	clear: both;
+}
+.htaccess_info_link {
+	z-index: 10;
+	position: absolute;
+	cursor: pointer;
+	font-weight: bold;
+}
